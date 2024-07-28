@@ -215,7 +215,8 @@
       <repository>
         <id>codeartifact</id>
         <name>codeartifact</name>
-    <url>https://yeahbuddy-058264349956.d.codeartifact.us-east-1.amazonaws.com/maven/maven-central-store/</url>
+    <!-- <url>https://yeahbuddy-058264349956.d.codeartifact.us-east-1.amazonaws.com/maven/maven-central-store/</url> -->
+      <url>https://yeahbuddy-058264349956.d.codeartifact.us-east-1.amazonaws.com/maven/maven-central-store/</url>
       </repository>
     </repositories>
 </project>

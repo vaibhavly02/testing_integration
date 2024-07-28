@@ -15,7 +15,8 @@
     <repositories>
       <repository>
         <id>codeartifact</id>
-    <url>https://yeahbuddy-058264349956.d.codeartifact.us-east-1.amazonaws.com/maven/maven-central-store/</url>
+    <!-- <url>https://hellobuddy-691291731645.d.codeartifact.ap-south-1.amazonaws.com/maven/maven-central-store/</url> -->
+      <url>https://yeahbuddy-058264349956.d.codeartifact.us-east-1.amazonaws.com/maven/maven-central-store/</url>
       </repository>
     </repositories>
   </profile>
@@ -27,7 +28,8 @@
   <mirror>
     <id>codeartifact</id>
     <name>domainname--maven-central-store</name>
-    <url>https://yeahbuddy-058264349956.d.codeartifact.us-east-1.amazonaws.com/maven/maven-central-store/</url>
+    <!-- <url>https://hellobuddy-691291731645.d.codeartifact.ap-south-1.amazonaws.com/maven/maven-central-store/</url> -->
+     <url>https://yeahbuddy-058264349956.d.codeartifact.us-east-1.amazonaws.com/maven/maven-central-store/</url>
     <mirrorOf>*</mirrorOf>
   </mirror>
 </mirrors>
